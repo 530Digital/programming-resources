@@ -1,2 +1,2 @@
-# programming-resources
-Resources to learn how to program
+# Programming Resources
+Resources you can use to learn how to program.
