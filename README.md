@@ -32,6 +32,9 @@
 ## Local Servers
 
 * <http://www.mamp.info/en>
+* <https://localbyflywheel.com>
+* <https://github.com/typicode/json-server>
+* <https://www.npmjs.com/package/http-server>
 
 ## HTML5
 
@@ -48,35 +51,22 @@
 
 ## JQuery
 
-* <http://jquery.com/>
+* <http://jquery.com>
+* <https://jqueryui.com>
 
 ## Node.js
 
 * <https://nodejs.org/en>
 * <https://nodeschool.io>
 
-## Node <HTTP Server>
-
-* <https://www.npmjs.com/package/<http-server>
-
-## Node JSON Server
-
-* <https://github.com/typicode/json-server>
-
 ## PHP
 
 * <http://php.net/>
-
-## MySQL DB
-
 * <https://www.w3schools.com/php/php_mysql_intro.asp>
 
-## Mongo DB
+## Databases
 
 * <https://www.mongodb.com>
-
-## PostgreSQL DB
-
 * <https://www.postgresql.org>
 
 ## Frameworks
